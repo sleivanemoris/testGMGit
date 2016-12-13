@@ -25,7 +25,8 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>image_angle = random_range(0, 360);
+            <string>image_angle = random_range(0, 180);
+//test
 </string>
           </argument>
         </arguments>
