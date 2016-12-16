@@ -9,14 +9,14 @@
     <sprite>sprites\sPlayer</sprite>
     <sprite>sprites\sBlock</sprite>
     <sprite>sprites\sprite2</sprite>
-    <sprite>sprites\spr_testnico</sprite>
+    <sprite>sprites\sprite3</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
   <objects name="objects">
     <object>objects\oPlayer</object>
     <object>objects\oBlock</object>
-    <object>objects\obj_testnico</object>
+    <object>objects\object2</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rTemplate</room>
